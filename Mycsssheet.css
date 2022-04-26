@@ -1,0 +1,12 @@
+body {
+    background-color:gray;
+}
+h1 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-underline-position: auto;
+}
+p{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
