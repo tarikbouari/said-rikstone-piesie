@@ -1,5 +1,5 @@
 body {
-    background-color:gray;
+    background-color:rgb(147, 218, 200);
 }
 h1 {
     font-size: larger;
@@ -9,4 +9,7 @@ h1 {
 p{
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+botton {
+    background-color: rgb(78, 74, 74);
 }
